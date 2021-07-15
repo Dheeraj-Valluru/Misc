@@ -1,0 +1,3 @@
+﻿  ComparingFloats.cpp
+C:\Users\k_kri\OneDrive\Dheeraj\Summer 21\ComparingFloats\ComparingFloats.cpp(7,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  ComparingFloats.vcxproj -> C:\Users\k_kri\OneDrive\Dheeraj\Summer 21\ComparingFloats\Debug\ComparingFloats.exe
